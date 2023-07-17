@@ -30,25 +30,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JoeyGutierrez760/ticket-lifecycle/assets/41347751/fa0de348-4d84-49c8-8154-379867700d27" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open tickets in osTicket refer to customer support inquiries or issues that have been received and are currently unresolved or awaiting a response from the support team or agents.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JoeyGutierrez760/ticket-lifecycle/assets/41347751/04b235ec-6a00-4ea4-b8b2-f6967f6c8452" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When working a ticket in osTicket, one agent can assist another agent by collaborating, sharing information, or providing guidance to ensure efficient resolution and customer satisfaction.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/JoeyGutierrez760/ticket-lifecycle/assets/41347751/0965f3c3-d307-454a-a468-46963fc211b1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Closing a ticket in osTicket involves marking it as resolved or completed, indicating that the customer's issue has been addressed satisfactorily and no further action is required.
 </p>
 <br />
